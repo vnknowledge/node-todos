@@ -3,6 +3,7 @@ Cơ bản về nodeJS - AngularJS - Mongodb
 
 Heroku Deploy App Demo: https://tasklist-todos.herokuapp.com/
 API App: 
+
   1. Trả về toàn bộ dữ liệu về các task: [Method: GET]https://tasklist-todos.herokuapp.com/api/todos
   
   2. Trả về dữ liệu của một task qua id: [Method: GET]https://tasklist-todos.herokuapp.com/api/todo/id_của_một_task
