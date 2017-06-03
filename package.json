@@ -1,0 +1,23 @@
+{
+  "name": "node-todos",
+  "version": "1.0.0",
+  "description": "tasklist",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "keywords": [
+    "node-todos"
+  ],
+  "author": "Mike Graham",
+  "license": "MIT"
+}
