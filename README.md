@@ -13,4 +13,4 @@ API App:
   
   4. Thêm một task vào todo list dùng json: [Method: POST]https://tasklist-todos.herokuapp.com/api/todo/
   
-  5. Cập nhật thông tin cho task, sửa task: [Mẹthod: PUT]https://tasklist-todos.herokuapp.com/api/todo/
+  5. Cập nhật thông tin cho task, sửa task: [Method: PUT]https://tasklist-todos.herokuapp.com/api/todo/
